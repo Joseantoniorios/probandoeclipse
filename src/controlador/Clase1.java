@@ -4,8 +4,8 @@
 package controlador;
 
 /**
- * @author joseantonioriosgonzalez
- *
+ * @author joseantonioriosgonzalez.
+ * dia 27-4-2022
  */
 public class Clase1 {
 	private int dato1;
